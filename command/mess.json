@@ -1,8 +1,8 @@
 {
-    "wait": "```Proses kak!```",
+    "wait": "```wait in minute!```",
     "error": {
         "Iv": "Link yang kamu berikan tidak valid",
-        "api": "Maaf terjadi kesalahan"
+        "api": "Maaf lag ¯\_(ツ)_/¯"
     },
     "OnlyGrup": "Perintah ini hanya bisa digunakan di grup",
     "OnlyPM": "Perintah ini hanya bisa digunakan di private message",
